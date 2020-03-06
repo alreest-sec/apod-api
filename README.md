@@ -1,5 +1,7 @@
 # Astronomy Picture of the Day (APOD) microservice
 
+just an example
+
 A microservice written in Python with the [Flask micro framework](http://flask.pocoo.org).
 
 # Table of contents
